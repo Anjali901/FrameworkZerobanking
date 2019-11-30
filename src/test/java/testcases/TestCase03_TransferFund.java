@@ -46,7 +46,7 @@ LoginPage lp;
 		//String Actual = "You successfully submitted your transaction.";
 		//Assert.assertEquals();
 	System.out.println("Sucessfully Transaction done");
-	System.out.println("Welcome to git");
+	//System.out.println("Welcome to git");
 	}
 	
 	
